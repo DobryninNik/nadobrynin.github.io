@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог | </title>
+    <link>http://localhost:1313/publication_types/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <atom:link href="http://localhost:1313/publication_types/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Блог</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Блог</title>
+      <link>http://localhost:1313/publication_types/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+    </image>
+    
+    <item>
+      <title>Оформление отчёта</title>
+      <link>http://localhost:1313/publications/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>&lt;h2 id=&#34;оформление-отчёта&#34;&gt;Оформление отчёта&lt;/h2&gt;
+&lt;h1 id=&#34;основные-положения&#34;&gt;Основные положения&lt;/h1&gt;
+&lt;p&gt;Основные положения
+Рабочий каталог лабораторной работы должен иметь унифицированную структуру.
+Исходный код программ, отчёты по лабораторным работам и т.д. размещаются в системе контроля версий git.
+Выполнение лабораторной работы документируется в виде скринкаста.
+Должны выполняться соглашения об именовании.
+При проверке лабораторных работ следует использовать понятные критерии оценки.&lt;/p&gt;
+&lt;h1 id=&#34;правила-именования&#34;&gt;Правила именования&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Общие правила именования&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В дисплейных классах вы можете посмотреть имя вашей учётной записи, набрав в терминале команду: id -un.
+При установке на своей технике необходимо использовать имя вашей учётной записи дисплейных классов (транслитерированные первые буквы имени и отчества, плюс транслитерированная фамилия).
+Например, если студента зовут Остап Сулейманович Бендер, то его учётная запись имеет вид osbender.
+Идентификатор пользователя должен быть ясно различим на скриншотах в отчётах.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе №2</title>
+      <link>http://localhost:1313/publications/week-2/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/week-2/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
+&lt;p&gt;За эту неделю я сделал много дел&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Выполнил Лабораторную работу №8&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сделал презентации по предметам &lt;strong&gt;Цифровая грамотность&lt;/strong&gt; и &lt;strong&gt;История России&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выполнил третий этап индивидуального проекта&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Побывал на лекции от компании &lt;strong&gt;ООО &amp;ldquo;Норбит&amp;rdquo;&lt;/strong&gt;, узнал много подробностей о стажировке в этой компании&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Подготовился к контрольной по мат. анализу, изучил интегралы, производные, пределы и выучил таблицу интегралов&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе №3</title>
+      <link>http://localhost:1313/publications/week-3/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/week-3/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
+&lt;p&gt;На этой неделе нас предупредили что нужно выбирать направление между &amp;lsquo;Бизнес информатикой&amp;rsquo; и &amp;ldquo;Кибербезопасностью в экономике&amp;rdquo;.
+Это очень важный выбор над которым я всё ещё думаю, и надеюсь что не ошибусь выбрав кибербез.
+На этой неделе так-же сдал контрольную работу по предмету &amp;ldquo;Цифровая грамотность&amp;rdquo; и начал готовиться к контрольной по матанализу.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе №1</title>
+      <link>http://localhost:1313/publications/week-1/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/week-1/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
+&lt;p&gt;За эту неделю я сделал много дел&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Выполнил Лабораторную работу №6&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сделал презентации по предметам &lt;strong&gt;Цифровая грамотность&lt;/strong&gt; и &lt;strong&gt;История России&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выполнил второй этап индивидуального проекта&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Зарегестрировался на Gamejam при спонсорстве github: &lt;strong&gt;gamedev.js&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Побывал на лекции от компании &lt;strong&gt;ООО &amp;ldquo;Норбит&amp;rdquo;&lt;/strong&gt;, узнал много подробностей о стажировке в этой компании&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
